@@ -1,0 +1,41 @@
+{
+  "gitSyncId": "66f5499d3bb62b7a4d54312a_1372e21a-081e-4c0f-a8c7-5157aec324a2",
+  "unpublishedPage": {
+    "layouts": [
+      {
+        "dsl": {
+          "backgroundColor": "none",
+          "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+          "bottomRow": 380,
+          "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
+          "canExtend": true,
+          "containerStyle": "none",
+          "detachFromLayout": true,
+          "dynamicBindingPathList": [
+            {
+              "key": "borderRadius"
+            },
+            {
+              "key": "boxShadow"
+            }
+          ],
+          "dynamicTriggerPathList": [],
+          "leftColumn": 0,
+          "minHeight": 1292,
+          "parentColumnSpace": 1,
+          "parentRowSpace": 1,
+          "rightColumn": 4896,
+          "snapColumns": 64,
+          "snapRows": 124,
+          "topRow": 0,
+          "type": "CANVAS_WIDGET",
+          "version": 90,
+          "widgetId": "0",
+          "widgetName": "MainContainer"
+        }
+      }
+    ],
+    "name": "Page1",
+    "slug": "page1"
+  }
+}
